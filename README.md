@@ -118,18 +118,6 @@ Key Insights
 
 ---
 
-Project Structure
-
-Project Folder
-│
-├── Product Positioning.csv
-├── Tableau Workbook (.twb / .twbx)
-├── Dashboard Screenshots
-├── Story Screenshots
-├── README.md
-
----
-
 Dashboard Features
 
 - Interactive filters
